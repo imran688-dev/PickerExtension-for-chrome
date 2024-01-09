@@ -1,0 +1,14 @@
+
+{
+  "manifest_version": 3,
+  "name": "ColorPicker",
+  "description": "A color picker Extension to pick color from any website",
+  "version": "1.0",
+  "author": "Farabi Ahmed Imran",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "color-picker-clipart-7.jpg"
+  }
+}
+
+
